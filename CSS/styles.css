@@ -1,0 +1,31 @@
+header
+{
+    font-family: sans-serif, verdana;
+    text-align: center;
+}
+body
+{
+    background-color: green;
+}
+div
+{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 20px;
+    color: maroon;
+}
+div1
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+div2
+{
+    color: maroon;
+}
+div3
+{
+    font-size: 30px;
+    font-weight: bold;
+    color: orange;
+}
